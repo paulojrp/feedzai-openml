@@ -20,7 +20,7 @@ This API contains the main concepts that allow interaction between Feedzai's pla
   <groupId>com.feedzai</groupId>
   <artifactId>openml-api</artifactId>
   <!-- See project tags for latest version -->
-  <version>0.1.0</version>
+  <version>0.1.1</version>
 </dependency>
 ```
 
@@ -34,7 +34,7 @@ The OpenML Utils library helps you to manipulate some of the core concepts.
   <groupId>com.feedzai</groupId>
   <artifactId>openml-utils</artifactId>
   <!-- See project tags for latest version -->
-  <version>0.1.0</version>
+  <version>0.1.1</version>
 </dependency>
 ```
 
